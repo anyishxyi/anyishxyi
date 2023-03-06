@@ -2,7 +2,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=nmcodes alt=nmcodes/></p>
 
-I'm working for [Alten](https://www.alten.fr).
+I'm working for [Capgemini](https://www.capgemini.com/).
 
 
 **Languages and framworks:**  
