@@ -1,8 +1,8 @@
-## Hey, guys. I'm Jean-Paul NGALULA
+## Hi there ! I'm Jean-Paul
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=nmcodes alt=nmcodes/></p>
 
-I'm working for [Capgemini](https://www.capgemini.com/).
+I'm a Software Engineer at [Capgemini](https://www.capgemini.com/).
 
 
 **Languages and framworks:**  
@@ -14,23 +14,10 @@ I'm working for [Capgemini](https://www.capgemini.com/).
 
 **What am I learning:**
 
-<code>let topics = ["Typescript", "Java", "Microservices", "Craftsmanship"];</code>
+<code>let topics = ["Java", "Microservices", "Craftsmanship", "Cloud"];</code>
 
 
 **How to connect with me**
 
 :star: <code>[Mail](mailto:jeanpaulngalula07@gmail.com)</code>   
 :star: <code>[LinkedIn](https://www.linkedin.com/in/jeanpaulngalula/)</code>
-
-<!--
-<div class="half">
-  <a href="https://github.com/nmcodes"><img src="https://github-readme-stats.vercel.app/api?username=nmcodes&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
-  <a href="https://github.com/nmcodes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcodes&hide=Objective-C,shell,swift&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
-</div>
--->
-
-
-<!---
-pxradox/pxradox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
