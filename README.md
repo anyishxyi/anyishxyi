@@ -2,7 +2,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=nmcodes alt=nmcodes/></p>
 
-I'm a Software Engineer at [Inventiv IT](https://inventiv-it.fr/).
+I'm a Software Engineer at [Capgemini](https://www.capgemini.com/fr-fr/).
 
 
 
