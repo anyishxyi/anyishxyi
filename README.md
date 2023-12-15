@@ -17,11 +17,12 @@ I'm a Software Engineer at [Capgemini](https://www.capgemini.com/fr-fr/).
 
 **What am I learning:**
 
-<code>let topics = ["Java", "Microservices", "Craftsmanship", "Cloud"];</code>
+<code>let topics = ["Microservices", "Craftsmanship", "Cloud"];</code>
 
 
 
 **How to connect with me:**
 
 :star: <code>[Mail](mailto:jeanpaulngalula07@gmail.com)</code>   
-:star: <code>[LinkedIn](https://www.linkedin.com/in/jeanpaulngalula/)</code>
+:star: <code>[LinkedIn](https://www.linkedin.com/in/jeanpaulngalula/)</code>   
+:star: <code>[My Portfolio](https://www.mulume.dev)</code>
