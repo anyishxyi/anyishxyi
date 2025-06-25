@@ -2,7 +2,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=nmcodes alt=nmcodes/></p>
 
-I'm a Software Engineer at [Neosoft](https://www.neosoft.fr).
+I'm a Software Engineer at <a href="https://www.neosoft.fr" target="_blank" rel="noopener noreferrer">Neosoft</a>.
 
 
 
