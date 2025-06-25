@@ -9,7 +9,7 @@ I'm a Software Engineer at [Neosoft](https://www.neosoft.fr).
 **Languages and framworks:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/anyishxyi/logos-readme/main/assets/java.png" alt="Java"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/anyishxyi/logos-readme/main/assets/spring.jpeg" alt="Spring"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/anyishxyi/logos-readme/main/assets/spring.png" alt="Spring"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/anyishxyi/logos-readme/main/assets/kafka.webp" alt="Kafka"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/anyishxyi/logos-readme/main/assets/aws.png" alt="AWS"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/anyishxyi/logos-readme/main/assets/angular.png" alt="Angular"/></code>
